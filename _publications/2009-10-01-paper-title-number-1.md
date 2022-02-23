@@ -1,7 +1,7 @@
 ---
 title: "Motivated to Serve: A Regulatory Perspective on Public Service Motivation and Organizational Citizenship Behavior"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-PAR
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 20021
 venue: 'Public Administration Review (CNRS 1, ABS 4*)'
