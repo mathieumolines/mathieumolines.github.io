@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mathieu Molines"
+  name             : Mathieu Molines
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Paris, France"
+  location         : Paris, France
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.fr/citations?user=jk4Ve-YAAAAJ&hl=fr"
+  googlescholar    : https://scholar.google.fr/citations?user=jk4Ve-YAAAAJ&hl=fr
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Mathieu-Molines"
+  researchgate     : https://www.researchgate.net/profile/Mathieu-Molines
   uri              :
   bitbucket        :
   codepen          :
