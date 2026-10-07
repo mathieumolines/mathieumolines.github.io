@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mathieumolines.github.io/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mathieumolines.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mathieumolines.github.io/fr/"/>
+  </url>
+  <url>
+    <loc>https://mathieumolines.github.io/fr/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mathieumolines.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mathieumolines.github.io/"/>
+  </url>
+</urlset>
