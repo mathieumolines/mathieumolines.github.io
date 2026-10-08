@@ -237,3 +237,5 @@ footer {
   body { font-size: 11pt; }
   a { color: inherit; }
 }
+
+.status { display: block; margin-top: 0.15em; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; font-size: 0.82rem; color: var(--muted); }
