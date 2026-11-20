@@ -24,4 +24,16 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://mathieumolines.github.io/fr/medias/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://mathieumolines.github.io/media/"/>
   </url>
+  <url>
+    <loc>https://mathieumolines.github.io/publications/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mathieumolines.github.io/publications/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mathieumolines.github.io/fr/publications/"/>
+  </url>
+  <url>
+    <loc>https://mathieumolines.github.io/fr/publications/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mathieumolines.github.io/fr/publications/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mathieumolines.github.io/publications/"/>
+  </url>
 </urlset>
